@@ -20,6 +20,11 @@
 
 - 📫 How to reach me **shrutisaxena51@gmail.com**
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shrutisaxena/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shrutisaxena/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shrutisaxena/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shrutisaxena/discussion/light)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
