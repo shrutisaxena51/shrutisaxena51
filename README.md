@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shrutisaxena51](https://medium.com/@shrutisaxena51)
 
-- 💬 Ask me about **computer archtecture ana machine learning**
+- 💬 Ask me about **computer architecture and machine learning**
 
 - 📫 How to reach me **shrutisaxena51@gmail.com**
 
