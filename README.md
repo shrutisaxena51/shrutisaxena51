@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shrutisaxena01" target="blank"><img src="https://img.shields.io/twitter/follow/shrutisaxena01?logo=twitter&style=for-the-badge" alt="shrutisaxena01" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I am passionate about learning Artificial intelligence and Machine learning advancement. 
 
-- 👯 I’m looking to collaborate on [Machine Learning project](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning)
-
-- 🤝 I’m looking for help with [Kaggle project](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning)
+- 👯 I am looking to collaborate on [Machine Learning project](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrutisaxena51/](https://github.com/shrutisaxena51/)
 
